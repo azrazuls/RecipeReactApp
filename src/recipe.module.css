@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Sofia'); 
+@import url('https://fonts.googleapis.com/css?family=Poppins'); 
+.recipe{ 
+	border-radius: 10px; 
+	box-shadow: #c9aa88; 
+	margin: 20px; 
+	display: flex; 
+	flex-direction: column; 
+	justify-content: space-around; 
+	background-image: linear-gradient(to right, 
+	#E9D7AB 0%, #DACBA9 0%, #C19A6B 0%, 
+	#C3B091 30%, #D2B48C 64%, #9F8170 100%); 
+	align-items: center; 
+	min-width: 40%; 
+	font-family: 'Poppins', cursive; 
+	text-align: justify;
+} 
+
+.image{ 
+	border-radius: 10px; 
+	margin:0px 0px 20px 0px; 
+} 
